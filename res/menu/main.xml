@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.algonquin.wieg0002.temperatureconverter.MainActivity" >
+
+    <item
+        android:id="@+id/mainLayout"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_about"
+        />
+</menu>
